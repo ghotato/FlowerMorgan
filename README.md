@@ -3,5 +3,5 @@
 <p class="has-line-data" data-line-start="3" data-line-end="4">Created with the Help of ColtG5 and their <a href="https://thunderstore.io/c/lethal-company/p/ColtG5/CreepyBrackens/">CreepyBrackens</a> mod</p>
 <p class="has-line-data" data-line-start="5" data-line-end="6">Big thank you to <a href="https://github.com/Shroototem">Shroototem</a> for helping clean up everything</p>
 <p class="has-line-data" data-line-start="7" data-line-end="8">Please make sure the Q.FlowerMorgan folder is in your plugins folder</p>
-<p class="has-line-data" data-line-start="9" data-line-end="10">Click <a href="https://thunderstore.io/c/lethal-company/p/Lill_q/LillQs_Modpack/">HERE</a> to go to the ThunderStore</p>
+<p class="has-line-data" data-line-start="9" data-line-end="10">Click <a href="https://thunderstore.io/c/lethal-company/p/Lill_q/LillQs_Modpack/">HERE</a> to go to the ThunderStore page</p>
 
