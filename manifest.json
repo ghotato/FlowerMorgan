@@ -1,7 +1,0 @@
-{
-    "name": "FlowerMorgan",
-    "version_number": "1.0.0",
-    "website_url": "",
-    "description": "Its time to smell the roses.",
-    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
-}
